@@ -1,0 +1,1 @@
+echo "Hello & welcome to GitUp your coding pal"
