@@ -1,1 +1,1 @@
-# Welcome to GitUp : every developers needs a pal who motivates him/her
+## Welcome to GitUp : every developers needs a pal who motivates him/her
